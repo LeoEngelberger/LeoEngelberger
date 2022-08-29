@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeoEngelberger
-- 👀 I’m interested in working with GPL's as Python, C, C++, Java, C#
+- 👀 I’m interested in working with GPL's as Python, C, C++, Java, C# as well as with ASM(x86)
 - 🌱 I’m currently studying Computer Science at UZH 
 - 
 - 📫 best way to reach me is at: leo.engelberger@gmail.ch
