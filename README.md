@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeoEngelberger
 - 👀 I’m interested in working with general purpose languages such as Rust, Python, C, C++, Java, C# as well as with ASM(x86)
-- 🌱 I’m currently studying Computer Science and Computational Sciences at UZH 
+- 🌱 I’m currently working as a Software Engineer at Pilatus Aircraft
 - 
 - 📫 best way to reach me is at: leo.engelberger@gmail.ch
 
