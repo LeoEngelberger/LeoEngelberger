@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeoEngelberger
   
 - 🌱 I’m currently working as a Software Engineer at Pilatus Aircraft
-- 
+
 - 📫 best way to reach me is at: leo.engelberger@gmail.ch
 
 <!---
